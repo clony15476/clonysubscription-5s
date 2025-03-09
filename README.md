@@ -77,7 +77,7 @@
             <button id="subscribeBtn">✅ اشترك في القناة</button>
             <button id="likeBtn">👍 أعجب بالفيديو</button>
         </div>
-        <button class="lock-btn" id="unlockBtn" onclick="window.location.href='https://yourlink.com'">🔓 فتح الرابط</button>
+        <button class="lock-btn" id="unlockBtn" onclick="window.location.href='https://www.mediafire.com/file/46lom7nw4afzmfw/Delta-657.677-01.apk/file'">🔓 فتح الرابط</button>
     </div>
 
     <script>
@@ -104,7 +104,7 @@
             this.innerText = "✅ تم الإعجاب";
             this.style.background = "gray";
             this.disabled = true;
-            window.open("https://www.youtube.com/watch?v=YOUR_VIDEO_ID", "_blank");
+            window.open("https://youtu.be/XEWInUh_LZk?si=Uz741NVn2YzdIcfZ", "_blank");
             checkUnlock();
         });
     </script>
